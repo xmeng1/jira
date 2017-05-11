@@ -1,0 +1,19 @@
+#Tue Nov 29 14:23:42 CST 2016
+Description=Draw.io Diagrams for JIRA\: Evaluation
+NumberOfUsers=-1
+CreationDate=2016-11-30
+com.mxgraph.jira.plugins.drawio.active=true
+ContactEMail=mengxin.city@gmail.com
+Evaluation=true
+licenseVersion=2
+com.mxgraph.jira.plugins.drawio.Starter=false
+MaintenanceExpiryDate=2016-12-29
+com.mxgraph.jira.plugins.drawio.enterprise=true
+Organisation=Xin Meng
+ServerID=B57A-76SK-VQC6-DY2E
+SEN=SEN-L8905262
+LicenseExpiryDate=2016-12-29
+LicenseTypeName=COMMERCIAL
+PurchaseDate=2016-11-30
+
+This license is official signed.

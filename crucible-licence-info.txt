@@ -1,0 +1,19 @@
+#Tue Nov 29 06:19:19 CST 2016
+Description=Crucible (Server)\: Evaluation
+CreationDate=2016-11-29
+crucible.LicenseTypeName=COMMERCIAL
+ContactEMail=mengxin.city@gmail.com
+Evaluation=true
+licenseVersion=2
+crucible.Starter=false
+MaintenanceExpiryDate=2016-12-29
+crucible.NumberOfUsers=-1
+Organisation=Xin Meng
+crucible.active=true
+ServerID=BEW8-KD5S-2KLK-A5JU
+SEN=SEN-L8902410
+LicenseID=LIDSEN-L8902410
+LicenseExpiryDate=2016-12-29
+PurchaseDate=2016-11-29
+
+This license is official signed.

@@ -1,0 +1,18 @@
+#Tue Nov 29 04:26:31 CST 2016
+Description=Team Calendars for Confluence (Server)\: Evaluation
+NumberOfUsers=-1
+team_calendars.enterprise=true
+CreationDate=2016-11-29
+team_calendars.active=true
+team_calendars.Starter=false
+ContactEMail=mengxin.city@gmail.com
+Evaluation=true
+licenseVersion=2
+MaintenanceExpiryDate=2016-12-29
+team_calendars.LicenseTypeName=COMMERCIAL
+Organisation=Xin Meng
+SEN=SEN-L8901741
+LicenseExpiryDate=2016-12-29
+PurchaseDate=2016-11-29
+
+This license is official signed.

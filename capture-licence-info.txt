@@ -1,0 +1,19 @@
+#Tue Nov 29 14:11:55 CST 2016
+Description=Capture for JIRA (Server)\: Evaluation
+NumberOfUsers=-1
+CreationDate=2016-11-30
+bonfire.enterprise=true
+ContactEMail=mengxin.city@gmail.com
+Evaluation=true
+bonfire.Starter=false
+licenseVersion=2
+bonfire.LicenseTypeName=COMMERCIAL
+MaintenanceExpiryDate=2016-12-29
+Organisation=Xin Meng
+ServerID=B57A-76SK-VQC6-DY2E
+SEN=SEN-L8905201
+LicenseExpiryDate=2016-12-29
+bonfire.active=true
+PurchaseDate=2016-11-30
+
+This license is official signed.

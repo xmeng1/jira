@@ -1,0 +1,19 @@
+#Tue Nov 29 03:15:31 CST 2016
+Description=Confluence (Server)\: Evaluation
+CreationDate=2016-11-29
+conf.active=true
+conf.Starter=false
+ContactEMail=mengxin.city@gmail.com
+Evaluation=true
+conf.LicenseTypeName=COMMERCIAL
+licenseVersion=2
+MaintenanceExpiryDate=2016-12-29
+Organisation=Xin Meng
+ServerID=BTID-VUEK-FK6O-F4MV
+SEN=SEN-L8901311
+LicenseID=LIDSEN-L8901311
+conf.NumberOfUsers=-1
+LicenseExpiryDate=2016-12-29
+PurchaseDate=2016-11-29
+
+This license is official signed.

@@ -1,0 +1,19 @@
+#Tue Nov 29 05:52:40 CST 2016
+Description=FishEye (Server)\: Evaluation
+CreationDate=2016-11-29
+ContactEMail=mengxin.city@gmail.com
+Evaluation=true
+licenseVersion=2
+fisheye.active=true
+MaintenanceExpiryDate=2016-12-29
+fisheye.Starter=false
+Organisation=Xin Meng
+ServerID=BEW8-KD5S-2KLK-A5JU
+SEN=SEN-L8902279
+LicenseID=LIDSEN-L8902279
+LicenseExpiryDate=2016-12-29
+fisheye.LicenseTypeName=COMMERCIAL
+fisheye.NumberOfUsers=-1
+PurchaseDate=2016-11-29
+
+This license is official signed.

@@ -1,0 +1,18 @@
+#Tue Nov 29 04:26:15 CST 2016
+Description=Questions for Confluence (Server)\: Evaluation
+NumberOfUsers=-1
+CreationDate=2016-11-29
+com.atlassian.confluence.plugins.confluence-questions.active=true
+com.atlassian.confluence.plugins.confluence-questions.Starter=false
+ContactEMail=mengxin.city@gmail.com
+Evaluation=true
+licenseVersion=2
+MaintenanceExpiryDate=2016-12-29
+com.atlassian.confluence.plugins.confluence-questions.LicenseTypeName=COMMERCIAL
+Organisation=Xin Meng
+SEN=SEN-L8901737
+LicenseExpiryDate=2016-12-29
+com.atlassian.confluence.plugins.confluence-questions.enterprise=true
+PurchaseDate=2016-11-29
+
+This license is official signed.
